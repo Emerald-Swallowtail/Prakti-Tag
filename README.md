@@ -31,3 +31,6 @@ Ihr dürft natürlich die ganze Zeit fragen stellen, aber hier habt ihr nochmal 
 ## Weitere Links
 [Coding a Simulation](https://studio.code.org/s/outbreak/lessons/1/levels/1)  
 [Color Pixelation](https://studio.code.org/s/pixelation/lessons/4/levels/1)
+
+# Kata Repo
+[Repo für Bootstrap](https://github.com/swkBerlin/kata-bootstraps)
